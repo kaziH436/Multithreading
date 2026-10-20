@@ -24,3 +24,4 @@ if __name__ == "__main__":
 # Parallel Processing 
 # map: dividing the input into multiple cores in the CPU equally 
 # reduce: aggregate the results back into the output
+# p=Pool(processes=3) # creates 3 processes 
